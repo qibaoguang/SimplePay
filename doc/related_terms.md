@@ -7,4 +7,7 @@ invoice:发票
 
 overdue:逾期，过期
 
+Subscription:订阅，订阅关系
+
+
 
