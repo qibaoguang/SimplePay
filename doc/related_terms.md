@@ -39,6 +39,10 @@ Currency　Conversion　：　货币转换，外汇汇兑
 
 Rate ：率，费率
 
+Payment：付款，支付
+
+Refund : 退还，归还，退款
+
 
 
 
