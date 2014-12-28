@@ -5,6 +5,8 @@ Billing : 计费
 
 invoice : 发票
 
+Audit : 审计，查帐
+
 overdue : 逾期，过期
 
 Subscription : 订阅，订阅关系
