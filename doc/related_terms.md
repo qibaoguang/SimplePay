@@ -3,6 +3,8 @@
 
 Billing : 计费，使用某种计费策略为商品计算价格。
 
+redeem ：偿还; 兑现
+
 charge ： 费用，收费。
 
 credit ： 信誉，信用，贷款。
