@@ -25,6 +25,8 @@ Currency : 货币
 
 Duration : 持续时间
 
+coupon ：优惠券
+
 Fixed ： 固定
 
 International Price ：国际价格
