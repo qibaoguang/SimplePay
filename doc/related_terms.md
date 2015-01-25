@@ -3,7 +3,11 @@
 
 Billing : 计费，使用某种计费策略为商品计算价格。
 
-invoice : 发票
+charge ： 费用，收费。
+
+credit ： 信誉，信用，贷款。
+
+invoice : 发票，账单; 开发票，记账单。
 
 Audit : 审计，查帐
 
