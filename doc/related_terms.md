@@ -57,7 +57,7 @@ transactions : 交易
 
 receipts ： 收据
 
-
+money laundering ：洗钱
 
 
 
